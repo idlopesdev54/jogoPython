@@ -1,3 +1,6 @@
+#Arquivo principal
+#Escolhe o jogo: 1 - Forca, 2 - Adivinhação.
+
 import forca
 import adivinhacao
 
@@ -19,3 +22,5 @@ def escolhe_jogo():
 
 if (__name__ == "__main__"):
     escolhe_jogo()
+    
+ 
